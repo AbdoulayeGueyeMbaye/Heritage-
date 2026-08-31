@@ -1,0 +1,19 @@
+{
+    "name": "abdoulaye-gueye-mbaye/wane_project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/",
+            "App\\http\\": "src/Controller/",
+            "App\\Model\\": "src/Model/",
+            "App\\Core\\": "src/Core/",
+            "App\\Services\\": "src/Services/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AbdoulayeGueyeMbaye",
+            "email": "mbayeabdoulayegueye@gmail.com"
+        }
+    ],
+    "require": {}
+}
